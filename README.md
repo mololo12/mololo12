@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+My name is Byungchan.
+
+I am studying C, Arduino and Python
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mololo12)](https://solved.ac/mololo12/)
+
 <!--
 **mololo12/mololo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
